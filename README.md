@@ -1,7 +1,6 @@
 # Dev Landing Page
 
-Code generously shared-open source--by Dinesh Pandiyan. Dinesh wrote the information below. 
-  - Jianda :)
+Code generously shared-open source--by Dinesh Pandiyan. Dinesh wrote the information below. -Jianda :)
 
 Minimal landing page for developers.
 
