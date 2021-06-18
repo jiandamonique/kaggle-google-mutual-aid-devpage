@@ -1,5 +1,8 @@
 # Dev Landing Page
 
+Code generously shared-open source--by Dinesh Pandiyan. Dinesh wrote the information below. 
+  - Jianda :)
+
 Minimal landing page for developers.
 
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
