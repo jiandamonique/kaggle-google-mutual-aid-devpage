@@ -1,6 +1,12 @@
 # Dev Landing Page
 
-Code generously shared-open source--by Dinesh Pandiyan. Dinesh wrote the information below. -Jianda :)
+Code generously shared-open source--by Dinesh Pandiyan. Dinesh wrote the instructions/coding details below. -Jianda :)
+
+My site URL for updates is here -- it provides all of the project details:
+https://jiandamonique.github.io/kaggle-google-mutual-aid-devpage/
+
+---
+From Dinesh:
 
 Minimal landing page for developers.
 
