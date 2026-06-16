@@ -47,7 +47,7 @@ Welcome to my digital workspace. This site serves as the archive and roadmap for
 | 2021 | Designed data pipeline architecture (Python · BeautifulSoup · Jekyll · GitHub Pages) |
 | 2021 | Prototyped database table designs and feature requirements for the mutual aid directory |
 | 2021 | Published ["Oversharing What's Overlooked"](https://jiandamonique.medium.com/oversharing-whats-overlooked-3ef8c0a4a52b) on Medium (216 claps) |
-| 2021 | Project paused — life was "lifing" |
+| 2021 | Hiatus | Transitioned to T1 Support Contractor Training and Position
 | 2026 | *My Beautiful Device* transcribed and published as a book (March 4, 2026) |
 | 2026 | Retroactive archiving · Portfolio updated · Revival underway |
 
