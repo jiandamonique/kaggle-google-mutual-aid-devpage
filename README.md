@@ -4,6 +4,8 @@
 "Software through Design Thinking and Artificial Intelligence are the alchemist's laboratory of the 21st century." — *Drew Minkin*
 
 ---
+Front End
+
 About // Project Iterations & Fellowship Archive
 This repository serves as the central living archive and development hub for my mutual aid initiatives. It documents the technical evolution of the Artist Mutual Aid Directory, spanning from its origins in the 2021 Kaggle/Google BIPOC Data Fellowship to its 2026 revival.  Here, I house the "Evergreen" iterations of my project planning, data exploration, and frontend development. By maintaining this archive, I am building in public, preserving the history of my development journey, and iterating on the foundational architecture to better serve the community.  
 
