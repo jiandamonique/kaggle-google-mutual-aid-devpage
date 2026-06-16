@@ -1,50 +1,29 @@
-# Dev Landing Page
+# Jianda Monique 🦋
+### Transformative Coder · Jr. Data Scientist · Author · Artist
 
-Code generously shared-open source--by Dinesh Pandiyan. Dinesh wrote the instructions/coding details below. -Jianda :)
-
-My site URL for updates is here -- it provides all of the project details:
-https://jiandamonique.github.io/kaggle-google-mutual-aid-devpage/
+"Software through Design Thinking and Artificial Intelligence are the alchemist's laboratory of the 21st century." — *Drew Minkin*
 
 ---
-From Dinesh:
 
-Minimal landing page for developers.
+## About // Metaphysical, Multimedia, Data-Diver
+I am a transformative coder, Jr. Data Scientist, and restorative justice creative dedicated to blending art, spirit, and tech to facilitate care, equity, and whimsy. My work sits at the intersection of data science, community care, and creative expression, drawing on my experiences in epidemiological modeling, holistic coaching, and the arts.
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+My practice is built on the belief that code, like art, is a medium for survival, connection, and restorative storytelling.
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+---
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+## Building with Care, Equity, & Whimsy
+Welcome to my digital workspace. This site serves as the archive and roadmap for my work in data science and community advocacy. Here, you will find a record of my development journey—from the foundational architecture of the Artist Mutual Aid Directory to ongoing experiments in "work-play" whimsy.
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+### What I’m Building
+* **Artist Mutual Aid Directory (2026 Revival):** A zero-dependency resource directory for BIPOC & LGBTQ+ artists.
+* **My Beautiful Device:** A cyberpunk novel of analog soul, mutual aid, and human spirit—published March 4, 2026.
+* **Data Science Archive:** Public health research contributions, epidemiological modeling, and open-source diagnostics.
 
-## Themes
+*Everything here is built in public, built with care, and open-source.*
 
-Dev Landing Page comes in 9 **material themes**.
+---
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
-
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
-
-## GitHub Pages
-
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
-
-If you already have a GitHub profile (obviously)
-
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
-
-Voila! Your site should be live at `https://{username}.github.io`
-
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
-MIT © Dinesh Pandiyan
+## Connect
+I am always open to feedback, collaboration, and community building.
+[LinkedIn] | [Email] | [Medium] | [Smashwords]
