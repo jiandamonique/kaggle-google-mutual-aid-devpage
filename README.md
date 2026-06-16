@@ -23,7 +23,8 @@ Welcome to my digital workspace. This site serves as the archive and roadmap for
 *Everything here is built in public, built with care, and open-source.*
 
 ---
-
-## Connect
+## Connect & Collaborate
+*   **Questions or Feedback?** Please open a new [Issue](https://github.com/jiandamonique/YOUR-REPO-NAME/issues) in this repository.
+*   **Want to contribute?** Feel free to fork this repository and submit a Pull Request. I review all contributions and look forward to hearing your thoughts!
 I am always open to feedback, collaboration, and community building.
 [LinkedIn] | [Email] | [Medium] | [Smashwords]
